@@ -39,7 +39,7 @@ Este manual explica como instalar o pacote IBM RSCT em uma LPAR Ubuntu 24 (Noble
 ```
    -rwxr-xr-x 1 root root 803 Jun 23  2016 /opt/rsct/cfg/rmdefs/IBM.DRM.mdef
 ```
-5. Reinicie o RSCT com os comandos:
+6. Reinicie o RSCT com os comandos:
 
    root@ubuntu:$ rmcctrl -z
    
